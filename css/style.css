@@ -111,7 +111,7 @@ body{
 }
 .digit {
 	color: black;
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 300;
 	display: inline-block;
 	overflow: hidden;
@@ -140,7 +140,7 @@ body{
         min-width: 300px;
     }
     .digit{
-        font-size: 30px;
+        font-size: 20px;
         height: 60px;
         line-height: 60px;
     }
@@ -150,7 +150,7 @@ body{
 }
 @media(min-width:560px) and (max-width: 1024px){
     .digit{
-        font-size: 40px;
+        font-size: 20px;
         height: 80px;
         line-height: 80px;
     }
@@ -159,7 +159,7 @@ body{
   3. Newsletter styles
 ------------------------------------------------------------------------- */
 .newsletter{
-    padding: 150px 0px;
+    padding: 170px 0px;
 }
 .newsletter h4,.newsletter p{
     margin: 0px;
